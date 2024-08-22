@@ -3,4 +3,4 @@
 dashboard project that uses react, vite, tailwindcss, and nivo charts
 
 ## Screenshot
-![Screenshot](./assets/ss.png)
+![Screenshot](./assets/screenshot.png)
